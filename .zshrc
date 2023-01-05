@@ -6,7 +6,7 @@
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 # ALIASES
-alias ls="ls -l -G -p"
+alias ls="ls -l -G -p" # The -l lists all the files by default. Remove if list not desired.
 # Write your own custom aliases here
 
 # mcd
